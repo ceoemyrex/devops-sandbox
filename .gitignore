@@ -1,0 +1,10 @@
+.env
+logs/
+envs/
+*.log
+__pycache__/
+.DS_Store
+.swp
+*~
+.idea/
+*.pyc
